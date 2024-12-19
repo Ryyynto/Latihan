@@ -8,6 +8,7 @@ var.add(11)
 
 print(var)
 
+#Menghilangkan angka 3 dalam set
 var.remove(3)
 
 print(var)
